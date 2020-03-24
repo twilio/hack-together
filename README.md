@@ -1,5 +1,5 @@
 ## Hack Together
-![Hack Together logo](hacktogether.png)
+![Hack Together logo](images/hacktogether.png)
 Goal: to connect, support, educate, entertain, and empower the hacker community during a trying time when many have been displaced from their campuses.
 
 Submit a PR with a question you'd like to ask the Father of Python Guido van Rossum then tune in 3/28 at 4pm to see if it's answered on [Twilio TV](https://twitch.tv/twilio). We'll have other activities, talks, games, and [contests](#asynchronous-contests) throughout the weekend of [LA Hacks](https://lahacks.com/), [RowdyHacks](https://www.rowdyhacks.io/), and [HooHacks](https://www.hoohacks.io/) to keep you entertained and learning.
@@ -8,7 +8,7 @@ Submit a PR with a question you'd like to ask the Father of Python Guido van Ros
 |--------------------------------------------|-----------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
  |                                                                                         |
 | Saturday 3/28                              |  (all PST)               |                                                                                         |
-| <img src="https://pbs.twimg.com/media/D1dSxFUXQAc3esW.jpg" alt="TwilioQuest Tea Time" style="width: 100px;height:50px;padding-top:-50px"/> [TwilioQuest  Tea Time LAHacks workshop](https://lahacks.com/link/twilio)                  | 9am-9:30am | Learn Twilio products and general programming skills with a video game, [TwilioQuest](twilio.com/quest). Win Zelda swords and more!  <img src="zeldasword.jpg" alt="Zelda Sword" style="width: 100px; height:50px;padding-bottom:100px"/>            | Twilio Developer Evangelists Gary Hockin, Lizzie Siegle, Cedric                                                      |
+| <img src="https://pbs.twimg.com/media/D1dSxFUXQAc3esW.jpg" alt="TwilioQuest Tea Time" style="width: 100px;height:50px;padding-top:-50px"/> [TwilioQuest  Tea Time LAHacks workshop](https://lahacks.com/link/twilio)                  | 9am-9:30am | Learn Twilio products and general programming skills with a video game, [TwilioQuest](twilio.com/quest). Win Zelda swords and more!  <img src="images/zeldasword.jpg" alt="Zelda Sword" style="width: 100px; height:50px;padding-bottom:100px"/>            | Twilio Developer Evangelists Gary Hockin, Lizzie Siegle, Cedric                                                      |
 |                                    |                                         |                                                                                         |
 | Morning Kickoff                            | 9:30am-10:15am        | Welcome, intro to schedule, contests, where to tune in and learn more, etc.       | Lizzie                                                                           |
 | Morning stretch                            | 10:15am-10:30am    | Take a stretching and yoga break!                                    |                                                                                         |
@@ -35,8 +35,8 @@ Submit a PR with a question you'd like to ask the Father of Python Guido van Ros
 ### Asynchronous Contests
 In addition to sponsoring best use of the Twilio API for LA Hacks (which is open to people who did not register as well) and Rowdy Hacks and some contests during the livestream above, we also have
 - Play [TwilioQuest](twilio.com/quest) this weekend, earning XP and swag by completing missions for the chance to win an IRL Zelda sword.
-- [#devsign](https://twitter.com/search?q=%23devsign&src=typed_query) contest. Take a picture of yourself AT HOME with a homemade sign similar to [Dude with Sign](https://www.forbes.com/sites/heatherleighton/2020/01/28/meet-the-creators-of-the-dude-with-sign-instagram-account/#460ad5b01d7d). Post it publicly on Twitter or Linkedin with the hashtags #devsign and #hacktogether and tag @twilio as well.
+- <em>#devWithSign</em> contest. Take a picture of yourself AT HOME with a homemade sign similar to [Dude with Sign](https://www.forbes.com/sites/heatherleighton/2020/01/28/meet-the-creators-of-the-dude-with-sign-instagram-account/#460ad5b01d7d). Post it publicly on Twitter or Linkedin with the hashtags #devsign and #hacktogether and tag @twilio as well.
 <p float="left">
-  <img src="aiismorethan.jpg" width="210" height="300" />
-  <img src="twiliodoesmore.jpg" width="210" height="300" /> 
+  <img src="images/aiismorethan.jpg" width="210" height="300" />
+  <img src="images/twiliodoesmore.jpg" width="210" height="300" /> 
 </p>
