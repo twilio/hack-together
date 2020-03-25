@@ -16,7 +16,7 @@ Submit a PR with a question you'd like to ask the Father of Python Guido van Ros
 | Intro to Security                          | 10:30am-11am    | Get a deep-dive into security                                                       | [HackathonMentors](https://hackathonmentors.org) founder and MLH Coach [Kyle Suero](https://kylesuero.com/)                                                              |
 | Setup a Web Page with GH Pages             | 11am-11:30am    | Get a personal webpage setup with GitHub Pages.                                           | Microsoft Dev PMM [Kim Noel](https://twitter.com/NoelKM)                                                              |
 | Crafts and Chit-chat                       | 11:30am-12pm    | Learn origami and draw-the-owl contest.                                                    |                                                                                         |
-| Job Prep Power Hour                    | 1pm-2pm      | Job or internship hunting? Unsure what to do for a virtual interview? Tune in for resume reviews, LinkedIn optimization tips, how to transition from college to industry, and more.                                                         | Newsela engineer [Prince Wilson](https://twitter.com/maxcell), and Twilio talent acquisition and engineers in the chat <3                                                                                                              |
+| Job Prep Power Hour                    | 1pm-2pm      | Job or internship hunting? Unsure what to do for a virtual interview? Tune in for resume reviews, LinkedIn optimization tips, and more.                                                         | Twilio Talent Researcher Connie Chan, asynchronous reviews and more done by Newsela engineer [Prince Wilson](https://twitter.com/maxcell), and Twilio engineers Bex Warner and Duy Nguyen in the chat and over email <3                                                                                                              |
 | Get Creative with Code                     | 2pm-2:30pm      | Make music with [Sonic Pi](http://sonic-pi.net/), a free code-based music creation and performance tool, and maybe with a npm module as well, time-permitting.                                                |       Engineer [Amy Dickens](https://twitter.com/redroxprojects)                                                   
 | Design Thinking for Engineers                          | 2:30pm-3pm      | Learn design processes and resources to prototype your demo today.on.                                                                              |             Twilio Principal Product Designer for AI [Elaine Lee](https://medium.com/@elainelee)                                                                            |
 | Build an App in real-time                   | 3pm-3:45pm      | Live-code a conference call app.                                                |         Lizzie                                      |
@@ -37,8 +37,9 @@ In addition to sponsoring best use of the Twilio API for LA Hacks (which is open
 - Play [TwilioQuest](twilio.com/quest) this weekend, earning XP and swag by completing missions for the chance to win an IRL Zelda sword.
 - <em>#devWithSign</em> contest. Take a picture of yourself AT HOME with a homemade sign similar to [Dude with Sign](https://www.forbes.com/sites/heatherleighton/2020/01/28/meet-the-creators-of-the-dude-with-sign-instagram-account/#460ad5b01d7d). Post it publicly on Twitter, Instagram, or Linkedin with the hashtags #devWithSign and #hacktogether and tag @twilio as well.
 <p float="left">
-  <img src="images/aiismorethan.jpg" width="210" height="300" />
-  <img src="images/twiliodoesmore.jpg" width="210" height="300" /> 
+  <img src="images/aiismorethan.jpg" width="175" height="185" />
+  <img src="images/twiliodoesmore.jpg" width="175" height="185" /> 
+  <img src = "https://pbs.twimg.com/media/ET-Pi1BU8AAfWDO?format=jpg&name=medium" width = "175" height="185"/>
 </p>
 
 ### Resources
