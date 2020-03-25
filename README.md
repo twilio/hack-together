@@ -1,8 +1,9 @@
 ## Hack Together
 ![Hack Together logo](images/hacktogether.png)
-Goal: to connect, support, educate, entertain, and empower the hacker community during a trying time when many have been displaced from their campuses.
+Goal: to connect, support, educate, entertain, and empower the hacker community during a trying time when many have been displaced from their campuses with a Saturday-long [Twilio TV livestream](https://twitch.tv/twilio) with games, contests, talks, workshops, and more.
 
 Submit a PR with a question you'd like to ask the Father of Python Guido van Rossum then tune in 3/28 at 4pm to see if it's answered on [Twilio TV](https://twitch.tv/twilio). We'll have other activities, talks, games, and [contests](#asynchronous-contests) throughout the weekend of [LA Hacks](https://lahacks.com/), [RowdyHacks](https://www.rowdyhacks.io/), and [HooHacks](https://www.hoohacks.io/) to keep you entertained and learning.
+### Schedule
 
 |                                            | Time            | Talk                                                                                     | Speakers                                                                                 |
 |--------------------------------------------|-----------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
@@ -39,4 +40,14 @@ In addition to sponsoring best use of the Twilio API for LA Hacks (which is open
 <p float="left">
   <img src="images/aiismorethan.jpg" width="210" height="300" />
   <img src="images/twiliodoesmore.jpg" width="210" height="300" /> 
+</p>
+
+### Resources
+If you're hacking at [LA Hacks](https://lahacks.com/), [RowdyHacks](https://www.rowdyhacks.io/), and [HooHacks](https://www.hoohacks.io/), we are sponsoring Best Use of the Twilio API. 
+
+Here are some [Twilio hackathon resources like a list of tutorials, videos, etc.](https://twil.io/hackathons) and a [letter on what we are looking for](https://docs.google.com/document/d/1UuVAJVfkeSxTpW1D0O4HCf68aTYo-3RH6NSeIwDAY10/edit?usp=sharing).
+<p float="left">
+  <img src="https://lahacks.com/static/icon/lahacks-logo-light.svg" alt="La Hacks" width="210" height="300" />
+  <img src="https://uploads-ssl.webflow.com/5c2ffb247e4404857f153646/5c3fc114d5ecd0c0fc441eec_white_owl.svg" alt="HooHacks" width="210" height="300" /> 
+  <img src="https://www.rowdyhacks.io/static/media/LogoVers2_1.c42b3417.png"alt="RowdyHacks" width="210" height="300"/>
 </p>
