@@ -1,9 +1,11 @@
 ## Hack Together
 ![Hack Together logo](images/hacktogether.png)
-Goal: to connect, support, educate, entertain, and empower the hacker community during a trying time when many have been displaced from their campuses with a series of [Twilio TV livestreams](https://twitch.tv/twilio) with games, contests, talks, workshops, and more throughout the day, interspersed with breaks and contests like 
+Goal: to connect, support, educate, entertain, and empower the hacker community when many have been displaced from their campuses with a series of [Twilio TV livestreams](https://twitch.tv/twilio) with games, contests, talks, workshops, and more throughout the day, interspersed with breaks and [contests](#asynchronous-contests) like 
 - <em>draw-the-owl</em>: draw and owl and show us on Slack or in Twitch chat!
 - [TwilioQuest](twilio.com/quest), a video game and training tool to earn XP, swag, and an IRL  Zelda sword (we will mail it to college hackers)                                                 
-- #DevWithSign
+- #DevWithSign. post to social media picture of yourself AT HOME with a homemade sign similar to [Dude with Sign](https://www.forbes.com/sites/heatherleighton/2020/01/28/meet-the-creators-of-the-dude-with-sign-instagram-account/#460ad5b01d7d) with the hashtags #HackTogether and whatever hackathon you are attending (LA Hacks, HooHacks, or RowdyHacks).
+
+(more info at the bottom under [asynchronous contests](#asynchronous-contests))
 
 Submit a PR with a question you'd like to ask the Father of Python Guido van Rossum then tune in 3/28 at 4pm to see if it's answered on [Twilio TV](https://twitch.tv/twilio). We'll have other activities, talks, games, and [contests](#asynchronous-contests) throughout the weekend of [LA Hacks](https://lahacks.com/), [RowdyHacks](https://www.rowdyhacks.io/), and [HooHacks](https://www.hoohacks.io/) to keep you entertained and learning.
 ### Schedule
@@ -30,7 +32,7 @@ Submit a PR with a question you'd like to ask the Father of Python Guido van Ros
 | LeetCode Live!  <img src = "https://leetcode.com/static/images/LeetCode_Sharing.png" alt="leetcode symbol" width = "125px" height = "75px"/>                         | 9pm             | See engineers answer LeetCode in real-time!                                              | former SB Hacks organizer [Diane Phan](https://dianephan.github.io/) and Airtable engineer [Tim Deng](https://timdeng2324.github.io/)                     |
 | Nighttime break                               | 10pm            | -------------------------------                                                   |                                                                                         |
 | Show-and-tell x Games                       | 11pm         | Show off what you're working on and play Developer Quiplash.                                                      |                                                                                                                                        |
-| Devtime/Bedtime Story <img src = "https://previews.123rf.com/images/onoontour/onoontour1709/onoontour170900018/86814235-a-vector-illustration-of-a-father-reading-a-bedtime-story-to-his-son-dad-and-son-are-in-bed-at-night.jpg" alt = "devtime story" width = "100px" height = "150px"/>                     | 11:30pm         | Bed time? More like dev time, amirite? Hear a new version of an old favorite!                                           |                                                                                         |
+| Devtime/Bedtime Story <img src = "https://previews.123rf.com/images/onoontour/onoontour1709/onoontour170900018/86814235-a-vector-illustration-of-a-father-reading-a-bedtime-story-to-his-son-dad-and-son-are-in-bed-at-night.jpg" alt = "devtime story" width = "100px" height = "150px"/>                     | 11:30pm         | Bed time? More like dev time, amirite? Hear a new version of an old favorite, the Very Hungry Developer (inspired by the Very Hungry Caterpillar).                                           |                                                                                         |
 |                                            |                 |                                                                                                                        |                                                                                         |
 
 ### Asynchronous Contests
