@@ -38,7 +38,7 @@ Submit a PR with a question you'd like to ask the Father of Python Guido van Ros
 
 ### Asynchronous Contests
 In addition to sponsoring best use of the Twilio API for LA Hacks (which is open to people who did not register as well) and Rowdy Hacks and some contests during the livestream above, we also have
-- Play [TwilioQuest](twilio.com/quest) this weekend, earning XP and swag by completing missions for the chance to win an IRL Zelda sword.
+- Play [TwilioQuest](https://twilio.com/quest) this weekend, earning XP and swag by completing missions for the chance to win an IRL Zelda sword.
 - <em>#devWithSign</em> contest. Take a picture of yourself AT HOME with a homemade sign similar to [Dude with Sign](https://www.forbes.com/sites/heatherleighton/2020/01/28/meet-the-creators-of-the-dude-with-sign-instagram-account/#460ad5b01d7d). Post it publicly on Twitter, Instagram, or Linkedin with the hashtags #devWithSign and #hacktogether and tag @twilio as well.
 <p float="left">
   <img src="images/twiliodoesmore.jpg" width="175" height="185" /> 
