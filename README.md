@@ -1,4 +1,4 @@
-## Hack Together
+## Hack Together WOO
 ![Hack Together logo](images/hacktogether.png)
 ** schedule is done for the day after the keynote Q&A due to streaming setup difficulties and we apologize for any confusion <3 
 Goal: to connect, support, educate, entertain, and empower the hacker community when many have been displaced from their campuses with a series of [Twilio TV livestreams](https://twitch.tv/twilio) with games, contests, talks, workshops, and more throughout the day, interspersed with breaks and [contests](#asynchronous-contests) like 
